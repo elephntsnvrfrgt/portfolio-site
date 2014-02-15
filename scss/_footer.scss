@@ -1,0 +1,34 @@
+footer{
+	font-size:0.6em;
+	color:$darkgray;
+	background:$offwhite;
+	border-top:1px solid $mediumgray;
+	height:auto;
+	position:fixed;
+	bottom:0;
+	width:100%;
+	clear:both;
+	.copyright{
+		font-family:$h-fonts;
+		padding:1.4em 0 1.5em 5em;
+		float:left;
+	}
+	.social{
+		float:right;
+		padding:1.1em 0.8em 0 0;
+		a{
+			font-size:1.7em;
+			padding-right:0.8em;
+			text-decoration:none;
+			color:$darkgray;
+		}
+		a:hover{
+			color:$orange;
+			-webkit-transition: 400ms;
+			-moz-transition:    400ms;
+			-ms-transition:     400ms;
+			-o-transition:      400ms;
+			transition:         400ms;
+		}
+	}
+}

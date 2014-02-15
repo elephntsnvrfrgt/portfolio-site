@@ -1,0 +1,174 @@
+//Color ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+$orange: #ff6029;
+$red: adjust-hue($orange, -15);
+$darkgray: #b3b3b3;
+$mediumgray: #ebebeb;
+$gray: #676767;
+$offwhite: #fafafa;
+
+//Type ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+$h-fonts: 'Titillium Web', 'Helvetica Neue', Helvetica, sans-serif;
+$p-fonts: 'Merriweather', Georgia, serif;
+
+/*TYPOGRAPHY*/
+/*––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+
+body {
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	font-size: 100%;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family:$h-fonts;
+}
+
+
+h2{
+	font-size:2.2em;
+	line-height:1.2em;
+	font-weight:600;
+	letter-spacing:-0.02em;
+}
+
+h3{
+	font-size:1.4em;
+	font-weight:600;
+	letter-spacing:-0.01em;
+
+}
+
+h4:first-of-type{
+	padding-top:1em;
+}
+
+h4{
+	font-size:1.03em;
+	font-weight:600;
+	color:$gray;
+	padding-top:1.3em;
+	letter-spacing:-0.01em;
+}
+
+h5{
+	color:white;
+	font-size:1em;
+	font-weight:600;
+}
+
+h6{
+	font-size:1.4em;
+	font-weight:300;
+}
+
+p{
+	padding:1.3em 0 0 0;
+	font-family:$p-fonts;
+	font-weight:200;
+	font-size:1em;
+	line-height:1.6em;
+	letter-spacing:0.01em;
+	color:$gray;
+	max-width:46em;
+}
+
+.multi-title{
+	padding-bottom:1em;
+}
+
+.subtitle{
+	text-align:center;
+	font-family:$h-fonts;
+	color:$darkgray;
+	font-weight:300;
+	padding:2em 0 1.5em 0;
+}
+
+.caption{
+	text-align:center;
+	font-family:$h-fonts;
+	font-weight:400;
+	font-style:italic;
+	padding:1.5em 0 0 0;
+}
+
+
+
+em{
+	font-style:italic;
+}
+
+a{
+	color:lighten($orange,10);
+	-webkit-transition: 300ms;
+	-moz-transition:    300ms;
+	-ms-transition:     300ms;
+	-o-transition:      300ms;
+	transition:         300ms;
+}
+
+.pointer a:hover{
+	color:darken($orange, 10);
+	-webkit-transition: 300ms;
+	-moz-transition:    300ms;
+	-ms-transition:     300ms;
+	-o-transition:      300ms;
+	transition:         300ms;
+}
+
+/*ICON FONT*/
+/*––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+
+@font-face {
+	font-family: 'icons';
+	src:url('../assets/fonts/icons.eot');
+	src:url('../assets/fonts/icons.eot?#iefix') format('embedded-opentype'),
+		url('../assets/fonts/icons.woff') format('woff'),
+		url('../assets/fonts/icons.ttf') format('truetype'),
+		url('../assets/fonts/icons.svg#icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-list:before {
+	content: "\e600";
+}
+.icon-layout:before {
+	content: "\e601";
+}
+.icon-arrow-left:before {
+	content: "\e602";
+}
+.icon-arrow-down:before {
+	content: "\e603";
+}
+.icon-arrow-up:before {
+	content: "\e604";
+}
+.icon-arrow-right:before {
+	content: "\e605";
+}
+.icon-twitter:before {
+	content: "\e606";
+}
+.icon-linkedin:before {
+	content: "\e607";
+}
+.icon-behance:before {
+	content: "\e608";
+}

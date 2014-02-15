@@ -1,0 +1,111 @@
+.grid{
+	background: white;
+	border-bottom:1px solid $mediumgray;
+	clear:both;
+}
+
+/*THUMBNAIL IMAGES*/
+/*––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+.fb{
+	background: url('../assets/_thumbnails/thumb-01fb.jpg');
+}
+
+.bryant{
+	background: url('../assets/_thumbnails/thumb-02bryant.jpg');
+}
+
+.bwm{
+	background: url('../assets/_thumbnails/thumb-03bwm.jpg');
+}
+
+.sober{
+	background: url('../assets/_thumbnails/thumb-04NHTSA-sober.jpg');
+}
+
+.sober-info{
+	background: url('../assets/_thumbnails/thumb-17ds-infogfx.jpg');
+}
+
+.smo{
+	background: url('../assets/_thumbnails/thumb-05smo.jpg');
+}
+
+.bsm{
+	background: url('../assets/_thumbnails/thumb-06bsm.jpg');
+}
+
+.type{
+	background: url('../assets/_thumbnails/thumb-07type.jpg');
+}
+
+.ciot{
+	background: url('../assets/_thumbnails/thumb-08NHTSA-ciot.jpg');
+}
+
+.cosd{
+	background: url('../assets/_thumbnails/thumb-09cosd.jpg');
+}
+
+.sjh{
+	background: url('../assets/_thumbnails/thumb-10sjh.jpg');
+}
+
+.dash{
+	background: url('../assets/_thumbnails/thumb-11dash.jpg');
+}
+
+.plumb{
+	background: url('../assets/_thumbnails/thumb-12plumb.jpg');
+}
+
+.postmodrn{
+	background: url('../assets/_thumbnails/thumb-13postmodern.jpg');
+}
+
+.texting{
+	background: url('../assets/_thumbnails/thumb-14texting.jpg');
+}
+
+.seeds{
+	background: url('../assets/_thumbnails/thumb-15seeds.jpg');
+}
+
+.amy{
+	background: url('../assets/_thumbnails/thumb-16amy.jpg');
+}
+
+.thmb{
+	width:25%;
+	padding-bottom:25%;
+	position:relative;
+	float:left;
+	overflow: hidden;
+	background-size:100% 100%;
+}
+
+.inner-thmb{
+	position:absolute;
+}
+
+.hideDescription{
+	visibility:hidden;
+	font-family:$h-fonts;
+	color: #fff;
+	text-align:center;
+	padding-top: 42%;
+	width:100%;
+	height:100%;
+	background:rgba(255, 96, 41, 0);
+}
+
+
+.pointer a:hover > .inner-thmb{
+	visibility: visible;
+	background:rgba(255, 96, 41, 0.72);
+	-webkit-transition: 300ms;
+  	-moz-transition:    300ms;
+  	-ms-transition:     300ms;
+  	-o-transition:      300ms;
+  	transition:         300ms;
+
+}

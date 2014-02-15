@@ -1,0 +1,79 @@
+label {
+    display:block;
+    margin-top:20px;
+    font-family:$h-fonts;
+    font-size:0.9em;
+    font-style:none;
+    -webkit-appearance: none;
+   	-moz-appearance:    none;
+   	appearance:         none;
+}
+
+input, textarea {
+	width:100%;
+	background:$offwhite;
+	border:1px solid $mediumgray;
+	padding:0.6em;
+	margin-top:0.3em;
+	font-size:0.9em;
+	color:$gray;
+	border-radius:0;
+	outline:none;
+	font-family:$h-fonts;
+	font-weight:200;
+	letter-spacing:0.01em;
+	-webkit-appearance: none;
+   	-moz-appearance:    none;
+   	appearance:         none;
+}
+
+input:focus, textarea:focus{
+	border:1px solid $gray;
+}
+
+input{
+	height:2em;
+}
+
+textarea{
+	height:5em;
+}
+
+.send{
+	vertical-align:middle;
+	font-family:$h-fonts;
+	height:3em;
+	margin:2em 0;
+	background:$darkgray;
+	border:none;
+	width:30%;
+	color:white;
+	-webkit-transition: 200ms;
+	-moz-transition:    200ms;
+	-ms-transition:     200ms;
+	-o-transition:      200ms;
+	transition:         200ms;
+}
+
+.pointer .send:hover{
+	background:lighten($orange,10);
+	-webkit-transition: 200ms;
+	-moz-transition:    200ms;
+	-ms-transition:     200ms;
+	-o-transition:      200ms;
+	transition:         200ms;
+}
+
+.send:active{
+	background:$orange;
+	border:1px solid darken($orange,2);
+}
+
+.error{
+	color:$orange;
+	text-indent:2em;
+}
+
+form{
+	max-width:30em;
+}
