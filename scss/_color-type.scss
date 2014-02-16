@@ -3,6 +3,7 @@
 $orange: #ff6029;
 $red: adjust-hue($orange, -15);
 $darkgray: #b3b3b3;
+$meddarkgray: #C0C0C0;
 $mediumgray: #ebebeb;
 $gray: #676767;
 $offwhite: #fafafa;
@@ -73,16 +74,39 @@ p{
 	max-width:46em;
 }
 
+.img-title{
+	padding:3em 0 1em 0;
+}
+
+.underline{
+	border-bottom: 1px solid $meddarkgray;
+	margin-bottom: 0.5em;
+}
+
+.no-title{
+	margin:3.5em 0 0 0;
+}
+
 .multi-title{
 	padding-bottom:1em;
 }
 
 .subtitle{
-	text-align:center;
+	text-align:left;
 	font-family:$h-fonts;
 	color:$darkgray;
 	font-weight:300;
 	padding:2em 0 1.5em 0;
+	font-size:1.3em;
+}
+
+.subtitle-title{
+	text-align:left;
+	font-family:$h-fonts;
+	color:$darkgray;
+	font-weight:300;
+	padding:0 0 1.5em 0;
+	font-size:1.3em;
 }
 
 .caption{
@@ -91,7 +115,8 @@ p{
 	font-weight:400;
 	font-style:italic;
 	padding:1.5em 0 0 0;
-}
+	margin:auto;
+	}
 
 
 

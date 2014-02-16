@@ -1,4 +1,9 @@
 <section class="clear-both">
+			
+			<a href="cmhf" class="thmb cmhf">
+			<div class="hideDescription inner-thmb">
+				<h5>Country Music Hall of Fame</h5>
+			</div>
 			<a href="membersavings.php" class="thmb fb">
 				<div class="hideDescription inner-thmb">
 					<h5>Member Savings</h5>
