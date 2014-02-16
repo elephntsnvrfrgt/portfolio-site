@@ -20,10 +20,10 @@
 	        			<h3 class="title">Country Music Hall of Fame</h3>
 
 	        			<p>
-	        				Responsive design concept. This project was mostly self initiated but stemmed from a project at the Tombras Group. I wanted this to be more of a 'process' portfolio piece. In order to not make this a billion miles of scrolling, I'll follow up with a blog post (coming soon) to explain my process and thinking more in depth.
+	        				Responsive design concept. This project was mostly self initiated but stemmed from a pitch to the client. I wanted this to be more of a 'process' portfolio piece. In order to not make this miles of scrolling, I'll follow up with a blog post (coming soon) to explain my process and thinking more in depth.
         				</p>
         				<p>
-							The roles I tried to touch on throughout this process were design, architecture, and interaction design. 
+							The roles I focused on were design, architecture, and interaction design. 
 	        			</p>
 	        			<p>
 	        				<strong>Client:</strong> Country Music Hall of Fame and Museum
@@ -44,8 +44,8 @@
 			        	<!-- intro -->
 
 	        			<img alt="" src="assets/work/cmhf/CMHF-1.jpg" />
-	        			<p class="caption">
-	        				Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed molestie augue sit amet leo consequat posuere. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere.
+	        			<p class="long caption">
+	        				Country Music Hall of Fame and Museum (Preserve) owns two other entities: Historic RCA Studio B (Create) &amp; Hatch Show Print (Promote). The three titles (Create, Preserve, Promote) serve two purposes. They describe the role of each entity, yet unify them as a whole.
 			        	</p>
 
 			        <!-- LAYOUTS-->
@@ -53,6 +53,9 @@
 			        	<h2 class="underline img-title">Layouts</h2>
 			        	<h3 class="subtitle-title">Home Page</h3>
 			        	<img class="" alt="" src="assets/work/cmhf/CMHF-2.jpg" />
+			        	<p class="long caption">
+	        				The homepage features a video introducing Country Music (the dominant circle at the top of the page) and interactive snippets about current exhibits. Below shows the content choreography for different screen sizes.
+			        	</p>
 
 						<!-- image 3 -->
 						
@@ -71,6 +74,9 @@
 
 			        	<h3 class="section-div subtitle">Tertiary - Specific Exhibit</h3>
 			        	<img class="" alt="" src="assets/work/cmhf/CMHF-6.jpg" />
+			        	<p class="long caption">
+	        				The goal was to create an interactive experience that matched the quality of the museum exhibits. These pages would highlight artifacts with interactive hotspots that utilize CMHF's vast library of videos, images, and audio.
+			        	</p>
 
 			        	<!-- image 7 -->
 
@@ -89,6 +95,9 @@
 
 			        	<h3 class="section-div subtitle">Subpage - Inductees</h3>
 			        	<img class="" alt="" src="assets/work/cmhf/CMHF-10.jpg" />
+			        	<p class="long caption">
+	        				Again, the goal was to create a visual and interactive way to explore the content. A more utilitarian (list) approach was also included to find Hall of Fame inductees quickly.
+			        	</p>
 
 			        	<!-- image 11 -->
 
