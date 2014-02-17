@@ -20,10 +20,10 @@
 	        			<h3 class="title">Country Music Hall of Fame</h3>
 
 	        			<p>
-	        				Responsive design concept. This project was mostly self initiated but stemmed from a pitch to the client. I wanted this to be more of a 'process' portfolio piece. In order to not make this miles of scrolling, I'll follow up with a blog post (coming soon) to explain my process and thinking more in depth.
+	        				Responsive design concept. This started as pitch work, but soon became a pet project. I  kept building on the initial pitch into what you now see. It became more of an exercise in process. To share more in-depth my thinking, I'll follow up with a blog post (coming soon).
         				</p>
         				<p>
-							The roles I focused on were design, architecture, and interaction design. 
+							The roles I focused on were visual, UI, and motion design. 
 	        			</p>
 	        			<p>
 	        				<strong>Client:</strong> Country Music Hall of Fame and Museum
@@ -50,7 +50,7 @@
 
 			        <!-- LAYOUTS-->
 
-			        	<h2 class="underline img-title">Layouts</h2>
+			        	<h2 class="underline img-title">Pages</h2>
 			        	<h3 class="subtitle-title">Home Page</h3>
 			        	<img class="" alt="" src="assets/work/cmhf/CMHF-2.jpg" />
 			        	<p class="long caption">
