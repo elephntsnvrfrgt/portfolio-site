@@ -159,10 +159,17 @@
 			        	<h2 class="underline img-title">Interaction</h2>
 			        	<h3 class="subtitle-title">Hotspot - Soundbite</h3>
 			        	<img class="" alt="" src="assets/work/cmhf/CMHF-22.jpg" />
+			        	<div class="video">
+			        		<iframe src="//player.vimeo.com/video/87246706?title=0&amp;byline=0&amp;portrait=0&amp;loop=1&amp;autoplay=1"  frameborder="0"></iframe>
+			        	</div>
+
 
 			        	<!-- image 25 -->
 			        	<h3 class="section-div subtitle">Artist Info</h3>
 			        	<img class="" alt="" src="assets/work/cmhf/CMHF-23.jpg" />
+			        	<div class="video">
+			        		<iframe src="//player.vimeo.com/video/86845371?title=0&amp;byline=0&amp;portrait=0&amp;loop=1&amp;autoplay=1"  frameborder="0"></iframe>
+			        	</div>
 
 			        	<!-- image 26 -->
 			        	<h3 class="section-div subtitle">Hotspot - Description</h3>

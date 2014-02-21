@@ -46,7 +46,7 @@
 	        			<img alt="" src="assets/work/bryant/BRYA-1.1.jpg" />
 
 			        	<div class="video">
-			        		<iframe src="//player.vimeo.com/video/63300074?title=0&amp;byline=0&amp;portrait=0&amp;loop=1"  frameborder="0"></iframe>
+			        		<iframe src="//player.vimeo.com/video/63300074?title=0&amp;byline=0&amp;portrait=0&amp;loop=1&amp;autoplay=1"  frameborder="0"></iframe>
 			        	</div>
 
 			        	<p class="caption">
@@ -112,7 +112,7 @@
 			        	</p>
 
 			        	<div class="video">
-			        		<iframe src="//player.vimeo.com/video/63300075?title=0&amp;byline=0&amp;portrait=0&amp;loop=1" frameborder="0"></iframe>
+			        		<iframe src="//player.vimeo.com/video/63300075?title=0&amp;byline=0&amp;portrait=0&amp;loop=1&amp;autoplay=1" frameborder="0"></iframe>
 			        	</div>
 
 			        	<p class="caption">
