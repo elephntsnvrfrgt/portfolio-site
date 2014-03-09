@@ -12,17 +12,11 @@
 	        </div>
 	        <div id="main" class="clearfix" role="main">
 
-	        	<div class="column-8 two-thirds float-left right-contents width-control-resume">
-	        		<div class="top-contents left-contents right-contents">
-	        			<h2 class="title">R&#233;sum&#233;</h2>
-	        		</div>
-	        	</div>
-
-	        	<div class="column-4 empty float-left"></div>
- 
-	        	<div class="column-8 two-thirds float-left bottom-contents">
+	        	<div class="column-8 two-thirds float-left top-contents bottom-contents">
 	        		<div class="width-control-resume left-contents right-contents">
 			        	
+	        			<h2 class="title">R&#233;sum&#233;</h2>
+
 			        	<!-- Education -->
 
 			        	<div class="half float-left top-contents right-contents">

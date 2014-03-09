@@ -5,21 +5,22 @@ $currentPath = explode('?', $_SERVER['REQUEST_URI']); //make sure we don't count
 $currentPath = $currentPath[0]; //grab just the path
 
 $projectlist = array(
-        "/membersavings.php",
-        "/bryant.php",
-        "/bloodwater.php",
-        "/ds-mobile.php",
-        "/ds-infogrfx.php",
-        "/smoky.php",
-        "/baptist.php",
-        "/type.php",
-        "/ciot.php",
-        "/cosd.php",
-        "/stjoe.php",
-        "/dash.php",
-        "/plumbline.php",
-        "/omg.php",
-        "/amy.php",
+        "/cmhf",
+        "/membersavings",
+        "/bryant",
+        "/bloodwater",
+        "/ds-mobile",
+        "/ds-infogrfx",
+        "/smoky",
+        "/baptist",
+        "/type",
+        "/ciot",
+        "/cosd",
+        "/stjoe",
+        "/dash",
+        "/plumbline",
+        "/omg",
+        "/amy",
 );
 
 
@@ -46,7 +47,7 @@ if($currentPageIndex  == sizeof($projectlist)-1 ) {     //if we're on the last p
 		
 		<?php echo $prevlink; ?>
 			
-		<a class="pointer home" href="index.php">
+		<a class="pointer home" href="index">
 			<span class="icon-layout"></span>
 		</a>
 

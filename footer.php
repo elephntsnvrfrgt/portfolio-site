@@ -3,9 +3,9 @@
 				the work of isaac martin. ©2014
 			</p>
 			<p class="social">
-				<a href="http://www.linkedin.com/in/immartin/"><span class="icon-linkedin"></span></a>
-				<a href="https://www.twitter.com/isaacmart_in"><span class="icon-twitter"></span></a>
-				<a href="http://www.be.net/isaacmartin"><span class="icon-behance"></span></a>
+				<a href="http://www.linkedin.com/in/immartin/" target="_blank"><span class="icon-linkedin"></span></a>
+				<a href="https://www.twitter.com/isaacmart_in" target="_blank"><span class="icon-twitter"></span></a>
+				<a href="http://www.be.net/isaacmartin" target="_blank"><span class="icon-behance"></span></a>
 			</p>
 		</footer>
 
