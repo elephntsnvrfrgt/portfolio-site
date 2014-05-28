@@ -14,8 +14,9 @@
         	<div class="column-8 float-left clear-both">
         		<div class="width-control contents">
         			<h2 class="title">About Me</h2>
-            		<p>Hello. If you haven’t gathered, my name is Isaac Martin. I am a web designer who strives to combine logic, efficiency, and aesthetics in order to solve problems. I currently work in Knoxville, TN, at the <a href="http://www.tombras.com">Tombras Group</a>. When I’m not working, I spend time with my beautiful wife, Dyani. We enjoy the outdoors and have been exploring the Great Smoky Mountains. Check out <a href="http://wenthiking.com/users/274-isaac/hikes">where we’ve been</a>.
-					<p>For a more detailed professional summary, look over my <a href="resume.php">r&#233;sum&#233;</a> at your leisure.
+            		<p>Hello. If you haven’t gathered, my name is Isaac Martin. I am a web designer who strives to combine logic, efficiency, and aesthetics in order to solve problems. I currently work in Austin, TX at <a href="http://www.razorfish.com">Razorfish</a>. When I’m not working, I spend time with my beautiful wife, Dyani. We enjoy being outdoors, particularly hiking and camping. Check out <a href="http://wenthiking.com/users/274-isaac/hikes">where we’ve been</a>.
+					</p>
+					<p>For a more detailed professional summary, look over my <a href="resume.php">résumé</a> at your leisure.
 					</p>
         		</div>
         	</div>

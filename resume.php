@@ -135,8 +135,18 @@
 						<!-- Experience -->
 
 						<div class="half float-left top-contents right-contents">
-							
+						
 							<h3 class="title">Experience</h3>
+							
+							<h4>Razorfish<br><span class="job">- Designer</span></h4>
+
+							<ul class="list divider">
+								
+								<li>
+									Making the web more usable and beautiful.
+								</li>
+							</ul>
+
 							<h4>The Tombras Group</br><span class="job">- Interactive &amp; Print Designer</span></h4>
 							<ul class="list divider">
 								
