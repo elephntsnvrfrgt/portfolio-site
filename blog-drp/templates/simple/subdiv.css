@@ -3,7 +3,7 @@
 *********************************************************************************************/
 
 .row {
-    width: 1140px;
+    width: 100%;
     margin: 0 auto;
     overflow: hidden;
 }
@@ -20,6 +20,8 @@
 
 .row .three-quarters {
     width: 815px;
+    max-width: 46em;
+
 }
 
 /* XXL
