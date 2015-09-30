@@ -7,14 +7,14 @@
     <div id="inner-wrap">
 
         <?php include 'header.php'; ?>
-        
+
         <div id="overlay"></div>
 
         <div id="main" class="clearfix" role="main">
         	<div class="column-8 float-left clear-both">
         		<div class="width-control contents">
         			<h2 class="title">About Me</h2>
-            		<p>Hello. If you haven’t gathered, my name is Isaac Martin. I am a web designer who strives to combine logic, efficiency, and aesthetics in order to solve problems. I currently work in Austin, TX at <a href="http://www.razorfish.com">Razorfish</a>. When I’m not working, I spend time with my beautiful wife, Dyani. We enjoy being outdoors, particularly hiking and camping. Check out <a href="http://wenthiking.com/users/274-isaac/hikes">where we’ve been</a>.
+            		<p>Hello. If you haven’t gathered, my name is Isaac Martin. I'm a designer who aims to combine logic, efficiency, and aesthetics in order to solve problems. I currently work in Austin, TX at <a href="http://www.razorfish.com">Razorfish</a>. When I’m not working, I spend time with my beautiful wife and new baby boy. We enjoy being outdoors, particularly hiking and camping. Check out <a href="http://wenthiking.com/users/274-isaac/hikes">where we’ve been</a>.
 					</p>
 					<p>For a more detailed professional summary, look over my <a href="resume.php">résumé</a> at your leisure.
 					</p>
@@ -25,7 +25,7 @@
         	<div class="column-8 float-left clear-both bottom-contents">
         		<div class="width-control left-contents">
 		        	<div class="half float-left top-contents right-contents">
-						
+
 						<h3 class="title">Influences</h3>
 						<ul class="list">
 							<li>
@@ -51,7 +51,7 @@
 					</div>
 
 		        	<div class="half float-left top-contents right-contents">
-		        		
+
 		        		<h3 class="title">Connect</h3>
 						<ul class="list">
 							<li>
@@ -63,6 +63,9 @@
 							<li>
 								<a href="http://www.be.net/isaacmartin"><span class="icon-behance breathing-room"></span>Behance</a>
 							</li>
+              <li>
+                <a href="https://dribbble.com/isaacmartin"><span class="icon-dribbble breathing-room"></span>Dribbble</a>
+              </li>
 						</ul>
 
 		        	</div>

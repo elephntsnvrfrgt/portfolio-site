@@ -7,7 +7,7 @@
 	    <div id="inner-wrap">
 
 	        <?php include 'header.php'; ?>
-	        
+
 	        <div id="overlay">
 	        </div>
 	        <div id="main" class="clearfix" role="main">
@@ -19,14 +19,14 @@
 	        	</div>
 
 	        	<div class="column-4 empty float-left"></div>
- 
+
 	        	<div class="column-8 two-thirds float-left bottom-contents">
 	        		<div class="width-control-resume left-contents right-contents">
-			        	
+
 			        	<!-- Education -->
 
 			        	<div class="half float-left top-contents right-contents">
-							
+
 							<h3 class="title">Education</h3>
 							<ul class="list">
 								<li>
@@ -44,14 +44,14 @@
 						<!-- Honors -->
 
 						<div class="half float-left top-contents right-contents">
-							
+
 							<h3 class="title">Honors</h3>
 							<ul class="list">
 								<li>
 									Featured - Behance Web Design Served
 								</li>
 								<li>
-									Addy Awards - 2012 . 2013
+									Addy Awards - 2012-14
 								</li>
 								<li>
 									Published - Touch Magazine 3
@@ -62,18 +62,18 @@
 						<!-- Skills -->
 
 						<div class="half float-left top-contents right-contents">
-							
+
 							<h3 class="title">Skills</h3>
 							<h4>Design &amp; Photography</h4>
 							<ul class="list divider">
 								<li>
-									web
+									web - responsive
 								</li>
 								<li>
-									identity
+									app
 								</li>
 								<li>
-									branding
+									branding &amp; identity
 								</li>
 								<li>
 									publication
@@ -92,25 +92,16 @@
 							<h4>Computer &amp; Software</h4>
 							<ul class="list divider">
 								<li>
-									web
+									adobe cs
 								</li>
 								<li>
-									identity
+									sketch
 								</li>
 								<li>
-									branding
+									prototyping - pixate . invision
 								</li>
 								<li>
-									publication
-								</li>
-								<li>
-									packaging
-								</li>
-								<li>
-									illustration
-								</li>
-								<li>
-									art direction - photoshoots
+									html . (s)css
 								</li>
 							</ul>
 
@@ -135,13 +126,13 @@
 						<!-- Experience -->
 
 						<div class="half float-left top-contents right-contents">
-						
+
 							<h3 class="title">Experience</h3>
-							
+
 							<h4>Razorfish<br><span class="job">- Designer</span></h4>
 
 							<ul class="list divider">
-								
+
 								<li>
 									Making the web more usable and beautiful.
 								</li>
@@ -149,7 +140,7 @@
 
 							<h4>The Tombras Group</br><span class="job">- Interactive &amp; Print Designer</span></h4>
 							<ul class="list divider">
-								
+
 								<li>
 									Designing and concepting across digital and traditional media. Worked on clients including Axis Boats, Baptist Hospital, Bryant Boats, Daimler Trucks, ESPN Events, Knoxville CVB, Malibu Boats, McDonald's TN, Nat'l Hwy and Traffic Safety Admin., Pattison Sign Group, St. Joseph Hospital, Smoky Mountain TDA, University of Tennessee Athletic Dept.
 								</li>
@@ -157,7 +148,7 @@
 
 							<h4>Cornerstone Center for the Arts</br><span class="job">- Graphic Designer</span></h4>
 							<ul class="list divider">
-								
+
 								<li>
 									Designed promotional material for art classes, workshops, and various events.
 								</li>
@@ -165,7 +156,7 @@
 
 							<h4>Muncie Civic Theatre</br><span class="job">- Freelance Designer</span></h4>
 							<ul class="list">
-								
+
 								<li>
 									Designed promotional material for 2010-11 season.
 								</li>
