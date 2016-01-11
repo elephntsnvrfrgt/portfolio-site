@@ -17,21 +17,20 @@
 	        	<div class="column-4 float-left">
 	        		<div class="contents">
 
-	        			<h3 class="title">Country Music Hall of Fame</h3>
+	        			<h3 class="title">VW Car-Net</h3>
 
 	        			<p>
-	        				Responsive design concept. What began as a pitch soon evolved into a personal project. I built on the initial work which became more of an exercise in process and thinking.
+									Car-Net is a service by Volkswagen that allows you to remotely interact with your car from your device.
         				</p>
         				<p>
-							The roles I focused on were visual, UI, and motion design.
+									This case study is a fork of some pitch work I was apart of at Razorfish. The product redesign was a small part of the pitch, so afterwards I went back and thought more about what could make it a more interesting and useful tool.
 	        			</p>
 	        			<p>
-	        				<strong>Client:</strong> Country Music Hall of Fame and Museum
+	        				<strong>Client:</strong> Volkswagen Car-Net
 	        			</p>
-
-						<p>
-							Personal Work
-						</p>
+								<p>
+									Pitch / Personal Work
+								</p>
 
 	        		</div>
 	        	</div>
@@ -43,122 +42,132 @@
 
 			        	<!-- intro -->
 
-	        			<img alt="" src="assets/work/cmhf/CMHF-1.jpg" />
+	        			<img alt="" src="assets/work/vw-carnet/vw-01-intro.jpg" />
 	        			<p class="long caption">
-	        				Country Music Hall of Fame and Museum (Preserve) owns two other entities: Historic RCA Studio B (Create) &amp; Hatch Show Print (Promote). The three titles (Create, Preserve, Promote) serve two purposes. They describe the role of each entity, yet unify them as a whole.
-			        	</p>
+									A connected car should be just that: connected. It should be smart and adapt to you. It should learn your general behavior, yet allow for detailed control. And in a multi-device world, it shouldn’t care which one you’re using.
+								</p>
 
-			        <!-- LAYOUTS-->
+			        <!-- Home-->
 
-			        	<h2 class="underline img-title">Pages</h2>
-			        	<h3 class="subtitle-title">Home Page</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-2.jpg" />
-			        	<p class="long caption">
-	        				The homepage features a video introducing Country Music (the dominant circle at the top of the page) and interactive snippets about current exhibits. Below shows the content choreography for different screen sizes.
-			        	</p>
+			        	<h2 class="underline img-title">App</h2>
+			        	<h3 class="subtitle-title">Home</h3>
+								<p>
+									The home screen (I guess “dashboard” would be an appropriate label) gives a quick overview of your vehicle and the general app functionality. It is modular in order to allow for pertinent information to be injected easily. In the example below, it’s time for an oil change. The module is plopped in with appointments that fit your schedule.
+								</p>
+								<p>
+									Another example scenario could be your parking location. The module could show a map of your current location in relation to your parked vehicle, giving you directions on how to get there.
+								</p>
 
-						<!-- image 3 -->
+								</br>
+								</br>
 
-			        	<img class="no-title" alt="" src="assets/work/cmhf/CMHF-3.jpg" />
+								<img class="" alt="" src="assets/work/vw-carnet/vw-02-home.jpg" />
 
+
+
+								<!-- Menu -->
+
+								<h3 class="section-div subtitle">Menu</h3>
+								<img class="" alt="" src="assets/work/vw-carnet/CMHF-4.jpg" />
+								
 			        	<!-- image 4 -->
 
 			        	<h3 class="section-div subtitle">Subpage - Exhibits &amp; Collections</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-4.jpg" />
+			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-4.jpg" />
 
 			        	<!-- image 5 -->
 
-			        	<img class="no-title" alt="" src="assets/work/cmhf/CMHF-5.jpg" />
+			        	<img class="no-title" alt="" src="assets/work/vw-carnet/CMHF-5.jpg" />
 
 			        	<!-- image 6 -->
 
 			        	<h3 class="section-div subtitle">Tertiary - Specific Exhibit</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-6.jpg" />
+			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-6.jpg" />
 			        	<p class="long caption">
 	        				The goal was to create an interactive experience that matched the quality of the museum exhibits. These pages would highlight artifacts with interactive hotspots that utilize CMHF's vast library of videos, images, and audio.
 			        	</p>
 
 			        	<!-- image 7 -->
 
-			        	<img class="no-title" alt="" src="assets/work/cmhf/CMHF-7.jpg" />
+			        	<img class="no-title" alt="" src="assets/work/vw-carnet/CMHF-7.jpg" />
 
 			        	<!-- image 8 -->
 
 			        	<h3 class="section-div subtitle">Tertiary - Specific Collection</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-8.jpg" />
+			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-8.jpg" />
 
 			        	<!-- image 9 -->
 
-			        	<img class="no-title" alt="" src="assets/work/cmhf/CMHF-9.jpg" />
+			        	<img class="no-title" alt="" src="assets/work/vw-carnet/CMHF-9.jpg" />
 
 			        	<!-- image 10 -->
 
 			        	<h3 class="section-div subtitle">Subpage - Inductees</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-10.jpg" />
+			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-10.jpg" />
 			        	<p class="long caption">
 	        				Again, the goal was to create a visual and interactive way to explore the content. A more utilitarian (list) approach was also included to find Hall of Fame inductees quickly.
 			        	</p>
 
 			        	<!-- image 11 -->
 
-			        	<img class="no-title" alt="" src="assets/work/cmhf/CMHF-11.jpg" />
+			        	<img class="no-title" alt="" src="assets/work/vw-carnet/CMHF-11.jpg" />
 
 			        	<!-- image 12 -->
 
 			        	<h3 class="section-div subtitle">Tertiary - Specific HoF Bio</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-12.jpg" />
+			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-12.jpg" />
 
 			        	<!-- image 13 -->
 
-			        	<img class="no-title" alt="" src="assets/work/cmhf/CMHF-13.jpg" />
+			        	<img class="no-title" alt="" src="assets/work/vw-carnet/CMHF-13.jpg" />
 
 		        	<!-- NAVIGATION -->
 
 			        	<h2 class="underline img-title">Navigation</h2>
 			        	<h3 class="subtitle-title">Main - Large</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-14.jpg" />
+			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-14.jpg" />
 
 			        	<!-- image 15 -->
 			        	<h3 class="subtitle">Main - Medium &amp; Small</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-15.jpg" />
+			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-15.jpg" />
 
 			        	<!-- image 16 -->
 			        	<h3 class="section-div subtitle">Sub Nav - L</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-14b.jpg" />
+			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-14b.jpg" />
 
 			        	<!-- image 17 -->
 			        	<h3 class="subtitle">Sub Nav - M &amp; S</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-16.jpg" />
+			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-16.jpg" />
 
 			        	<!-- image 18 -->
 			        	<h3 class="section-div subtitle">Tertiary Nav - L</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-17.jpg" />
+			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-17.jpg" />
 
 			        	<!-- image 19 -->
 			        	<h3 class="subtitle">Tertiary Nav - M &amp; S</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-18.jpg" />
+			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-18.jpg" />
 
 			        	<!-- image 20 -->
 			        	<h3 class="section-div subtitle">Search - L</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-19.jpg" />
+			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-19.jpg" />
 
 			        	<!-- image 21 -->
 			        	<h3 class="subtitle">Search - M &amp; S</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-19b.jpg" />
+			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-19b.jpg" />
 
 			        	<!-- image 22 -->
 			        	<h3 class="section-div subtitle">Events &amp; Contact - L</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-20.jpg" />
+			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-20.jpg" />
 
 			        	<!-- image 23 -->
 			        	<h3 class="subtitle">Events &amp; Contact - M &amp; S</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-21.jpg" />
+			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-21.jpg" />
 
 		        	<!-- INTERACTION -->
 
 			        	<h2 class="underline img-title">Interaction</h2>
 			        	<h3 class="subtitle-title">Hotspot - Soundbite</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-22.jpg" />
+			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-22.jpg" />
 			        	<div class="video">
 			        		<iframe src="//player.vimeo.com/video/87246706?title=0&amp;byline=0&amp;portrait=0&amp;loop=1&amp;autoplay=1"  frameborder="0"></iframe>
 			        	</div>
@@ -166,14 +175,14 @@
 
 			        	<!-- image 25 -->
 			        	<h3 class="section-div subtitle">Artist Info</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-23.jpg" />
+			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-23.jpg" />
 			        	<div class="video">
 			        		<iframe src="//player.vimeo.com/video/86845371?title=0&amp;byline=0&amp;portrait=0&amp;loop=1&amp;autoplay=1"  frameborder="0"></iframe>
 			        	</div>
 
 			        	<!-- image 26 -->
 			        	<h3 class="section-div subtitle">Hotspot - Description</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-24.jpg" />
+			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-24.jpg" />
 
 					</div>
 				</div>

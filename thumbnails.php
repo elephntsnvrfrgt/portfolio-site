@@ -1,6 +1,10 @@
 <section class="clear-both">
-			
-			<a href="cmhf" class="thmb cmhf">
+
+			<a href="vw-carnet.php" class="thmb vw-carnet">
+			<div class="hideDescription inner-thmb">
+				<h5>VW Car-Net</h5>
+			</div>
+			<a href="cmhf.php" class="thmb cmhf">
 			<div class="hideDescription inner-thmb">
 				<h5>Country Music Hall of Fame</h5>
 			</div>

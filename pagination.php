@@ -4,22 +4,26 @@ $currentPath = explode('?', $_SERVER['REQUEST_URI']); //make sure we don't count
 
 $currentPath = $currentPath[0]; //grab just the path
 
+//remove /portfolio-site from each item in array before deploying.
+
 $projectlist = array(
-        "/membersavings.php",
-        "/bryant.php",
-        "/bloodwater.php",
-        "/ds-mobile.php",
-        "/ds-infogrfx.php",
-        "/smoky.php",
-        "/baptist.php",
-        "/type.php",
-        "/ciot.php",
-        "/cosd.php",
-        "/stjoe.php",
-        "/dash.php",
-        "/plumbline.php",
-        "/omg.php",
-        "/amy.php",
+        "/portfolio-site/vw-carnet.php",
+        "/portfolio-site/cmhf.php",
+        "/portfolio-site/membersavings.php",
+        "/portfolio-site/bryant.php",
+        "/portfolio-site/bloodwater.php",
+        "/portfolio-site/ds-mobile.php",
+        "/portfolio-site/ds-infogrfx.php",
+        "/portfolio-site/smoky.php",
+        "/portfolio-site/baptist.php",
+        "/portfolio-site/type.php",
+        "/portfolio-site/ciot.php",
+        "/portfolio-site/cosd.php",
+        "/portfolio-site/stjoe.php",
+        "/portfolio-site/dash.php",
+        "/portfolio-site/plumbline.php",
+        "/portfolio-site/omg.php",
+        "/portfolio-site/amy.php",
 );
 
 
@@ -43,14 +47,14 @@ if($currentPageIndex  == sizeof($projectlist)-1 ) {     //if we're on the last p
 
 <nav class="pagination">
 	<div class="pagination-content">
-		
+
 		<?php echo $prevlink; ?>
-			
+
 		<a class="pointer home" href="index.php">
 			<span class="icon-layout"></span>
 		</a>
 
 		<?php echo $nextlink ?>
-	
+
 	</div>
 </nav>
