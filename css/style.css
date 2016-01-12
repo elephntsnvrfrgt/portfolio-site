@@ -273,6 +273,12 @@ p {
   padding: 1.5em 0 0 0;
   margin: auto; }
 
+.p1 {
+  margin-top: -2.2em; }
+
+.p2 {
+  margin-bottom: 2.2em; }
+
 em {
   font-style: italic; }
 
@@ -349,6 +355,9 @@ a {
 
 /*THUMBNAIL IMAGES*/
 /*––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+.vw-carnet {
+  background: url("../assets/_thumbnails/thumb-vw.jpg"); }
+
 .cmhf {
   background: url("../assets/_thumbnails/thumb-cmhf.jpg"); }
 
@@ -821,6 +830,17 @@ iframe {
   width: 100%;
   height: 100%; }
 
+/* idevices isolated
+
+.phone-bg{
+	background: url('../assets/work/vw-carnet/vw-phone.png');
+}
+
+.tablet-bg{
+	background: url('../assets/work/vw-carnet/vw-tablet.png');
+}
+
+
 /* previous & next */
 .pagination {
   position: fixed;
@@ -1246,7 +1266,10 @@ iframe {
     padding: 1.5em 0 0.75em 0; } }
 @media only screen and (min-width: 320px) and (max-width: 779px), only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 320px) and (max-width: 779px), only screen and (-moz-min-device-pixel-ratio: 2) and (min-width: 320px) and (max-width: 779px), only screen and (min--moz-device-pixel-ratio: 2) and (min-width: 320px) and (max-width: 779px), only screen and (-o-min-device-pixel-ratio: 2 / 1) and (min-width: 320px) and (max-width: 779px), only screen and (min-device-pixel-ratio: 2) and (min-width: 320px) and (max-width: 779px), only screen and (min-resolution: 192dpi) and (min-width: 320px) and (max-width: 779px), only screen and (min-resolution: 2dppx) and (min-width: 320px) and (max-width: 779px) {
   .img-title, .subtitle, .subtitle-title {
-    text-align: center; } }
+    /*text-align:center;*/ }
+
+  .description {
+    margin-top: -1.2em; } }
 @media only screen and (min-width: 480px) and (max-width: 970px), only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 780px) and (max-width: 970px), only screen and (-moz-min-device-pixel-ratio: 2) and (min-width: 780px) and (max-width: 970px), only screen and (min--moz-device-pixel-ratio: 2) and (min-width: 780px) and (max-width: 970px), only screen and (-o-min-device-pixel-ratio: 2 / 1) and (min-width: 780px) and (max-width: 970px), only screen and (min-device-pixel-ratio: 2) and (min-width: 780px) and (max-width: 970px), only screen and (min-resolution: 192dpi) and (min-width: 780px) and (max-width: 970px), only screen and (min-resolution: 2dppx) and (min-width: 780px) and (max-width: 970px) {
   p {
     letter-spacing: 0;

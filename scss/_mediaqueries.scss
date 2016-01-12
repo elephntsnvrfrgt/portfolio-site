@@ -23,7 +23,7 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 320px) 
       width:100%;
       max-width:100%;
   }
-  
+
 }
 
 
@@ -50,7 +50,7 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 480px) 
       width:100%;
       max-width:100%;
   }
-  
+
 
 }
 
@@ -340,7 +340,7 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 571px) 
   color:darken($orange, 10%);
   border-bottom-color:darken($orange,10%);
   }
-  
+
 }
 
 /*––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
@@ -415,8 +415,12 @@ only screen and (                min-resolution: 192dpi) and (min-width: 320px) 
 only screen and (                min-resolution: 2dppx)  and (min-width: 320px) and (max-width:779px) {
 
   .img-title, .subtitle, .subtitle-title{
-    text-align:center;
+    /*text-align:center;*/
   }
+
+	.description{
+		margin-top:-1.2em;
+	}
 
 }
 

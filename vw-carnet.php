@@ -47,142 +47,84 @@
 									A connected car should be just that: connected. It should be smart and adapt to you. It should learn your general behavior, yet allow for detailed control. And in a multi-device world, it shouldn’t care which one you’re using.
 								</p>
 
+
 			        <!-- Home-->
 
 			        	<h2 class="underline img-title">App</h2>
 			        	<h3 class="subtitle-title">Home</h3>
-								<p>
+
+								<p class="p1">
 									The home screen (I guess “dashboard” would be an appropriate label) gives a quick overview of your vehicle and the general app functionality. It is modular in order to allow for pertinent information to be injected easily. In the example below, it’s time for an oil change. The module is plopped in with appointments that fit your schedule.
 								</p>
-								<p>
+								<p class="p2">
 									Another example scenario could be your parking location. The module could show a map of your current location in relation to your parked vehicle, giving you directions on how to get there.
 								</p>
 
-								</br>
-								</br>
-
 								<img class="" alt="" src="assets/work/vw-carnet/vw-02-home.jpg" />
-
 
 
 								<!-- Menu -->
 
 								<h3 class="section-div subtitle">Menu</h3>
-								<img class="" alt="" src="assets/work/vw-carnet/CMHF-4.jpg" />
-								
-			        	<!-- image 4 -->
 
-			        	<h3 class="section-div subtitle">Subpage - Exhibits &amp; Collections</h3>
-			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-4.jpg" />
-
-			        	<!-- image 5 -->
-
-			        	<img class="no-title" alt="" src="assets/work/vw-carnet/CMHF-5.jpg" />
-
-			        	<!-- image 6 -->
-
-			        	<h3 class="section-div subtitle">Tertiary - Specific Exhibit</h3>
-			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-6.jpg" />
-			        	<p class="long caption">
-	        				The goal was to create an interactive experience that matched the quality of the museum exhibits. These pages would highlight artifacts with interactive hotspots that utilize CMHF's vast library of videos, images, and audio.
-			        	</p>
-
-			        	<!-- image 7 -->
-
-			        	<img class="no-title" alt="" src="assets/work/vw-carnet/CMHF-7.jpg" />
-
-			        	<!-- image 8 -->
-
-			        	<h3 class="section-div subtitle">Tertiary - Specific Collection</h3>
-			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-8.jpg" />
-
-			        	<!-- image 9 -->
-
-			        	<img class="no-title" alt="" src="assets/work/vw-carnet/CMHF-9.jpg" />
-
-			        	<!-- image 10 -->
-
-			        	<h3 class="section-div subtitle">Subpage - Inductees</h3>
-			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-10.jpg" />
-			        	<p class="long caption">
-	        				Again, the goal was to create a visual and interactive way to explore the content. A more utilitarian (list) approach was also included to find Hall of Fame inductees quickly.
-			        	</p>
-
-			        	<!-- image 11 -->
-
-			        	<img class="no-title" alt="" src="assets/work/vw-carnet/CMHF-11.jpg" />
-
-			        	<!-- image 12 -->
-
-			        	<h3 class="section-div subtitle">Tertiary - Specific HoF Bio</h3>
-			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-12.jpg" />
-
-			        	<!-- image 13 -->
-
-			        	<img class="no-title" alt="" src="assets/work/vw-carnet/CMHF-13.jpg" />
-
-		        	<!-- NAVIGATION -->
-
-			        	<h2 class="underline img-title">Navigation</h2>
-			        	<h3 class="subtitle-title">Main - Large</h3>
-			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-14.jpg" />
-
-			        	<!-- image 15 -->
-			        	<h3 class="subtitle">Main - Medium &amp; Small</h3>
-			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-15.jpg" />
-
-			        	<!-- image 16 -->
-			        	<h3 class="section-div subtitle">Sub Nav - L</h3>
-			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-14b.jpg" />
-
-			        	<!-- image 17 -->
-			        	<h3 class="subtitle">Sub Nav - M &amp; S</h3>
-			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-16.jpg" />
-
-			        	<!-- image 18 -->
-			        	<h3 class="section-div subtitle">Tertiary Nav - L</h3>
-			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-17.jpg" />
-
-			        	<!-- image 19 -->
-			        	<h3 class="subtitle">Tertiary Nav - M &amp; S</h3>
-			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-18.jpg" />
-
-			        	<!-- image 20 -->
-			        	<h3 class="section-div subtitle">Search - L</h3>
-			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-19.jpg" />
-
-			        	<!-- image 21 -->
-			        	<h3 class="subtitle">Search - M &amp; S</h3>
-			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-19b.jpg" />
-
-			        	<!-- image 22 -->
-			        	<h3 class="section-div subtitle">Events &amp; Contact - L</h3>
-			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-20.jpg" />
-
-			        	<!-- image 23 -->
-			        	<h3 class="subtitle">Events &amp; Contact - M &amp; S</h3>
-			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-21.jpg" />
-
-		        	<!-- INTERACTION -->
-
-			        	<h2 class="underline img-title">Interaction</h2>
-			        	<h3 class="subtitle-title">Hotspot - Soundbite</h3>
-			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-22.jpg" />
-			        	<div class="video">
-			        		<iframe src="//player.vimeo.com/video/87246706?title=0&amp;byline=0&amp;portrait=0&amp;loop=1&amp;autoplay=1"  frameborder="0"></iframe>
-			        	</div>
+								<img class="" alt="" src="assets/work/vw-carnet/vw-03-menu.jpg" />
 
 
-			        	<!-- image 25 -->
-			        	<h3 class="section-div subtitle">Artist Info</h3>
-			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-23.jpg" />
-			        	<div class="video">
-			        		<iframe src="//player.vimeo.com/video/86845371?title=0&amp;byline=0&amp;portrait=0&amp;loop=1&amp;autoplay=1"  frameborder="0"></iframe>
-			        	</div>
+			        	<!-- Remote Key -->
 
-			        	<!-- image 26 -->
-			        	<h3 class="section-div subtitle">Hotspot - Description</h3>
-			        	<img class="" alt="" src="assets/work/vw-carnet/CMHF-24.jpg" />
+			        	<h3 class="section-div subtitle">Remote Key</h3>
+
+								<p class="p1 p2">
+									The need for physical keys seems to be dwindling, so why not get rid of a fob too? Here you have all the functionality, plus much more.
+								</p>
+
+			        	<img class="" alt="" src="assets/work/vw-carnet/vw-04-remote.jpg" />
+
+
+			        	<!-- Destinations -->
+
+			        	<h3 class="section-div subtitle">Destinations</h3>
+
+								<p class="p1 p2">
+									Destinations would allow for linking existing accounts (such as Google) for easier maintainability. And being smarter, it could remind you where you parked, when it’s time to head to work, or more importantly, how to get home on the fastest route. Push those directions to the vehicle infotainment so it’s ready to go when you are.
+								</p>
+
+			        	<img class="" alt="" src="assets/work/vw-carnet/vw-05-destinations-A.jpg" />
+
+								<img class="no-title" alt="" src="assets/work/vw-carnet/vw-05-destinations-B.jpg" />
+
+
+			        	<!-- Tracking -->
+
+			        	<h3 class="section-div subtitle">Tracking</h3>
+
+								<p class="p1 p2">
+									Boundaries allow for alerts to be pushed when the vehicle enters or exits a geofence. It could keep a watchful eye on your vehicle when it’s in the hands of another. Or maybe alert others when you’re heading home from work so you can focus on driving, not texting.
+								</p>
+
+			        	<img class="" alt="" src="assets/work/vw-carnet/vw-06-tracking-A.jpg" />
+
+								<p>
+									Speed alerts help keep the lead foots of the family in check as they drive your vehicle. There are two kinds: Relative and Fixed. Relative alerts are dynamic. They depend on the current road’s posted speed and push an alert accordingly. If your alert is set to 10 mph and the posted speed is 40 mph, then you’ll get an alert if Johnny Teenager goes 50+ mph.
+								</p>
+								<p class="p2">
+									Fixed alerts set a specified maximum speed at which the alert is sent. If the alert is set to 80 mph, it doesn’t matter what the posted speed is, as long as the vehicle stays under 80, the alert won’t be triggered. Fixed alerts could be used as Johnny proves responsibility and gains more experience driving. You may trust him to follow the speed limits, but want to make sure he’s not taking your vehicle to the local race track.
+								</p>
+
+			        	<img class="" alt="" src="assets/work/vw-carnet/vw-06-tracking-B.jpg" />
+
+
+								<!-- Health -->
+
+			        	<h3 class="section-div subtitle">Health</h3>
+
+								<p class="p1 p2">
+									The Health Report enables the owner, whether they’re familiar with car mechanics or not, to be proactive in a maintenance schedule. If/when the time comes to do more serious work, the owner sees the same diagnosis the mechanic has and opens up clearer communication. You’re still free to make noises as you explain what’s wrong to your mechanic.
+								</p>
+
+			        	<img class="" alt="" src="assets/work/vw-carnet/vw-07-health.jpg" />
+
+
 
 					</div>
 				</div>
