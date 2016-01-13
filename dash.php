@@ -7,7 +7,7 @@
 	    <div id="inner-wrap">
 
 	        <?php include 'header.php'; ?>
-	        
+
 	        <div id="overlay">
 	        </div>
 	        <div id="main" class="clearfix" role="main">
@@ -16,13 +16,13 @@
 
 	        	<div class="column-4 float-left">
 	        		<div class="contents">
-	        			
+
 	        			<h3 class="title">A Dash of Delicious</h3>
 
 	        			<p>
 	        				Visual identity for a bakery based in Stevens Point, WI.
         				</p>
-        				
+
 	        			<p>
 	        				<strong>Client:</strong> A Dash of Delicious
 	        			</p>
@@ -34,7 +34,7 @@
 
 	        	<div class="column-8 two-thirds float-left width-control-project">
 	        		<div class="contents">
-			        	
+
 			        	<!-- intro -->
 
 	        			<img alt="" src="assets/work/dash/dash-1.jpg" />
@@ -51,7 +51,7 @@
 
 			        	<!-- image 3 -->
 
-			        	<img class="no-title" alt="" src="assets/work/dash/dash-4.jpg" />
+			        	<img class="no-title lastitem" alt="" src="assets/work/dash/dash-4.jpg" />
 
 					</div>
 				</div>

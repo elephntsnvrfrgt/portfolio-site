@@ -9,6 +9,7 @@
 
 @import 'normalize';
 @import 'color-type';
+@import 'hero';
 @import 'thumbnails';
 @import 'form';
 @import 'footer';
@@ -18,7 +19,7 @@ body {
   color: #333;
   position: relative;
   width: 100%;
-  min-width: 20em;
+  min-width: 320px;
   background: white;
   -webkit-font-smoothing: antialiased;
 }

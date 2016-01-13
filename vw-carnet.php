@@ -125,6 +125,60 @@
 			        	<img class="" alt="" src="assets/work/vw-carnet/vw-07-health.jpg" />
 
 
+								<!-- Assistance -->
+
+			        	<h3 class="section-div subtitle">Assistance</h3>
+
+								<p class="p1 p2">
+									If unfortunate events occur, Assistance is there to… well, assist. Car-Net will contact a live person to help you or dispatch the appropriate help. This occurs automatically in the case of a collision, otherwise you can manually initiate if need be.
+								</p>
+
+			        	<img class="" alt="" src="assets/work/vw-carnet/vw-08-assistance.jpg" />
+
+								<!-- Watch -->
+
+								<h2 class="underline img-title">Watch</h2>
+			        	<h3 class="subtitle-title">Remote Key</h3>
+
+								<p class="p1 p2">
+									To keep things simple and functional, the watch app is boiled down to Remote Key features. All the same functionality of the larger screen devices are accessible on your wrist. Following Apple’s Human Interface Guidelines, page-based navigation made for quick access to most functionality.
+								</p>
+
+								<img class="" alt="" src="assets/work/vw-carnet/vw-09-w-remote.jpg" />
+
+
+								<!-- Force Touch Menu -->
+
+			        	<h3 class="section-div subtitle">Force Touch Menu</h3>
+
+								<p class="p1 p2">
+									The remaining functions are ones that you wouldn’t want to accidentally trigger. Creating a slightly more complex interaction would help negate this. Example scenario below: you’re almost back to your vehicle after running in the park and it’s crazy hot outside. You Force Touch the vehicle on your watch, select “Start engine,” from the menu, and confirm that you indeed want to start the engine. It then places you in the Climate screen so you can get that A/C pumping.
+								</p>
+
+			        	<img class="" alt="" src="assets/work/vw-carnet/vw-10-w-force.jpg" />
+
+
+								<!-- Alerts & Notifications -->
+
+			        	<h3 class="section-div subtitle">Alerts &amp; Notifications</h3>
+
+								<p class="p1 p2">
+									This is where the app could get smarter and more predictive. Example scenario: you just went grocery shopping and are pushing your cart through the parking lot. The vehicle and devices realize you’re approaching, where you’re coming from (grocery store), and predict that you need the trunk open.
+								</p>
+
+			        	<img class="" alt="" src="assets/work/vw-carnet/vw-11-w-alerts.jpg" />
+
+
+								<!-- Voice Control -->
+
+			        	<h3 class="section-div subtitle">Voice Control</h3>
+
+								<p class="p1 p2">
+									With “digital personal assistants,” becoming more robust, controlling your Volkswagen with your voice could be pretty powerful. This could open up a lot of hands-free possibilities.
+								</p>
+
+			        	<img class="lastitem" alt="" src="assets/work/vw-carnet/vw-12-w-voice.jpg" />
+
 
 					</div>
 				</div>

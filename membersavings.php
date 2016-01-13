@@ -7,7 +7,7 @@
 	    <div id="inner-wrap">
 
 	        <?php include 'header.php'; ?>
-	        
+
 	        <div id="overlay">
 	        </div>
 	        <div id="main" class="clearfix" role="main">
@@ -16,7 +16,7 @@
 
 	        	<div class="column-4 float-left">
 	        		<div class="contents">
-	        			
+
 	        			<h3 class="title">Member Savings</h3>
 
 	        			<p>
@@ -40,7 +40,7 @@
 
 	        	<div class="column-8 two-thirds float-left width-control-project">
 	        		<div class="contents">
-			        	
+
 			        	<!-- intro -->
 
 	        			<img alt="" src="assets/work/membersavings/TFBF-portfolio-pres-1.1.jpg" />
@@ -121,11 +121,11 @@
 			        	<h3 class="img-title section-div">My Rewards - Claimed Offers</h3>
 			        	<img alt="" src="assets/work/membersavings/TFBF-portfolio-pres-12.1.jpg" />
 
-			        	<p class="caption">
+			        	<p class="caption lastitem">
 			        		The user can see a total of their accumulated savings. They can toggle between the current month, year, and total savings.
 			        	</p>
 
-			        	<!-- picture fill test 
+			        	<!-- picture fill test
 
 			        	<span data-picture data-alt="Test image">
 							<span data-src="assets/work/membersavings/small.jpg">

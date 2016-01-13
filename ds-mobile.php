@@ -7,7 +7,7 @@
 	    <div id="inner-wrap">
 
 	        <?php include 'header.php'; ?>
-	        
+
 	        <div id="overlay">
 	        </div>
 	        <div id="main" class="clearfix" role="main">
@@ -16,7 +16,7 @@
 
 	        	<div class="column-4 float-left">
 	        		<div class="contents">
-	        			
+
 	        			<h3 class="title">Drive Sober Mobile</h3>
 
 	        			<p>
@@ -40,7 +40,7 @@
 
 	        	<div class="column-8 two-thirds float-left width-control-project">
 	        		<div class="contents">
-			        	
+
 			        	<!-- intro -->
 
 	        			<img alt="" src="assets/work/drivesober/ds-1.1.jpg" />
@@ -98,7 +98,7 @@
 			        	<!-- image 10 -->
 
 			        	<h3 class="subtitle">Full-screen View</h3>
-			        	<img alt="" src="assets/work/drivesober/ds-11.jpg" />
+			        	<img class="lastitem" alt="" src="assets/work/drivesober/ds-11.jpg" />
 
 					</div>
 				</div>

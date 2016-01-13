@@ -173,7 +173,7 @@
 
 			        	<!-- image 26 -->
 			        	<h3 class="section-div subtitle">Hotspot - Description</h3>
-			        	<img class="" alt="" src="assets/work/cmhf/CMHF-24.jpg" />
+			        	<img class="lastitem" alt="" src="assets/work/cmhf/CMHF-24.jpg" />
 
 					</div>
 				</div>

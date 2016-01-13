@@ -7,7 +7,7 @@
 	    <div id="inner-wrap">
 
 	        <?php include 'header.php'; ?>
-	        
+
 	        <div id="overlay">
 	        </div>
 	        <div id="main" class="clearfix" role="main">
@@ -16,7 +16,7 @@
 
 	        	<div class="column-4 float-left">
 	        		<div class="contents">
-	        			
+
 	        			<h3 class="title">COSD</h3>
 
 	        			<p>
@@ -40,7 +40,7 @@
 
 	        	<div class="column-8 two-thirds float-left width-control-project">
 	        		<div class="contents">
-			        	
+
 			        	<!-- intro -->
 
 	        			<img alt="" src="assets/work/cosd/COSD-print-02.png" />
@@ -76,7 +76,7 @@
 
 			        	<!-- image 5 -->
 
-			        	<img class="no-title" alt="" src="assets/work/cosd/COSD-dig-3.png" />
+			        	<img class="no-title lastitem" alt="" src="assets/work/cosd/COSD-dig-3.png" />
 
 					</div>
 				</div>

@@ -7,7 +7,7 @@
 	    <div id="inner-wrap">
 
 	        <?php include 'header.php'; ?>
-	        
+
 	        <div id="overlay">
 	        </div>
 	        <div id="main" class="clearfix" role="main">
@@ -16,7 +16,7 @@
 
 	        	<div class="column-4 float-left">
 	        		<div class="contents">
-	        			
+
 	        			<h3 class="title">Baptist Sports Medicine</h3>
 
 	        			<p>
@@ -40,7 +40,7 @@
 
 	        	<div class="column-8 two-thirds float-left width-control-project">
 	        		<div class="contents">
-			        	
+
 			        	<!-- intro -->
 
 	        			<img alt="" src="assets/work/bsm/bsm-1.jpg" />
@@ -63,7 +63,7 @@
 			        	<!-- image 4 -->
 
 			        	<h3 class="section-div img-title">Staff</h3>
-	        			<img alt="" src="assets/work/bsm/bsm-5.jpg" />
+	        			<img class="lastitem" alt="" src="assets/work/bsm/bsm-5.jpg" />
 
 					</div>
 				</div>
@@ -75,7 +75,7 @@
 	        	<div class="thumb-container">
 					<?php include 'thumbnails.php';?>
 				</div>
-				
+
 	    	</div><!--main-->
 		</div><!--/#inner-wrap-->
 
