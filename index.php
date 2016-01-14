@@ -17,8 +17,8 @@
 
               <a href="vw-carnet.php">
                 <div class="cn-logo">
-                  <img class="" alt="Car-Net logo and top view of car." src="assets/work/vw-carnet/hero/logo-car.png">
-                  <a href="vw-carnet.php" class="cs-link">view the case study</a>
+                  <img class="animate fadeIn one" alt="Car-Net logo and top view of car." src="assets/work/vw-carnet/hero/logo-car.png">
+                  <a href="vw-carnet.php" class="cs-link animate fadeIn two">view the case study</a>
                 </div>
               </a>
 

@@ -7,11 +7,11 @@
     <div id="inner-wrap">
 
         <?php include 'header.php'; ?>
-        
+
         <div id="overlay"></div>
 
         <div id="main" class="clearfix" role="main">
-        	<div class="column-8 float-left clear-both">
+        	<div class="column-8 float-left clear-both animate fadeIn one">
         		<div class="width-control contents">
         			<h2 class="title">Son of a...</h2>
             		<p>

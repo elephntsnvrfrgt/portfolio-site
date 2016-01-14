@@ -13,16 +13,16 @@
         <div id="main" class="clearfix" role="main">
         	<div class="column-8 float-left clear-both">
         		<div class="width-control contents">
-        			<h2 class="title">About Me</h2>
-            		<p>Hello. If you haven’t gathered, my name is Isaac Martin. I'm a designer who aims to combine logic, efficiency, and aesthetics in order to solve problems. I currently work in Austin, TX at <a href="http://www.razorfish.com">Razorfish</a>. When I’m not working, I spend time with my beautiful wife and new baby boy. We enjoy being outdoors, particularly hiking and camping. Check out <a href="http://wenthiking.com/users/274-isaac/hikes">where we’ve been</a>.
-					</p>
-					<p>For a more detailed professional summary, look over my <a href="resume.php">résumé</a> at your leisure.
-					</p>
+        			<h2 class="title animate fadeIn one">About Me</h2>
+            		<p class="animate fadeIn two">Hello. If you haven’t gathered, my name is Isaac Martin. I'm a designer who aims to combine logic, efficiency, and aesthetics in order to solve problems. I currently work in Austin, TX at <a href="http://www.razorfish.com">Razorfish</a>. When I’m not working, I spend time with my beautiful wife and new baby boy. We enjoy being outdoors, particularly hiking and camping. Check out <a href="http://wenthiking.com/users/274-isaac/hikes">where we’ve been</a>.
+        					</br>
+                  For a more detailed professional summary, look over my <a href="resume.php">résumé</a> at your leisure.
+					      </p>
         		</div>
         	</div>
 
 
-        	<div class="column-8 float-left clear-both bottom-contents">
+        	<div class="column-8 float-left clear-both bottom-contents animate fadeIn two">
         		<div class="width-control left-contents">
 		        	<div class="half float-left top-contents right-contents">
 

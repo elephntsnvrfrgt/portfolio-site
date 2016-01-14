@@ -7,7 +7,7 @@
 	    <div id="inner-wrap">
 
 	        <?php include 'header.php'; ?>
-	        
+
 	        <div id="overlay">
 	        </div>
 	        <div id="main" class="clearfix" role="main">
@@ -15,14 +15,14 @@
 	        	<!-- project description -->
 
 	        	<div class="column-4 float-left">
-	        		<div class="contents">
-	        			
+							<div class="contents animate one fadeIn">
+
 	        			<h3 class="title">Plumbline Construction</h3>
 
 	        			<p>
 	        				Logo and business cards for a masonry and hardscape construction company based in Indianapolis, IN.
         				</p>
-        				
+
 	        			<p>
 	        				<strong>Client:</strong> Plumbline Construction, Inc.
 	        			</p>
@@ -33,8 +33,8 @@
 	        	<!-- project images & explanation -->
 
 	        	<div class="column-8 two-thirds float-left width-control-project">
-	        		<div class="contents">
-			        	
+							<div class="contents animate two fadeIn">
+
 			        	<!-- intro -->
 
 	        			<img alt="" src="assets/work/plumb/plumb-1.png" />

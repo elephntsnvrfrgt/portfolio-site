@@ -15,7 +15,7 @@
 	        	<!-- project description -->
 
 	        	<div class="column-4 float-left">
-	        		<div class="contents">
+							<div class="contents animate one fadeIn">
 
 	        			<h3 class="title">COSD</h3>
 
@@ -39,7 +39,7 @@
 	        	<!-- project images & explanation -->
 
 	        	<div class="column-8 two-thirds float-left width-control-project">
-	        		<div class="contents">
+							<div class="contents animate two fadeIn">
 
 			        	<!-- intro -->
 

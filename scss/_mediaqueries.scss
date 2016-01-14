@@ -164,6 +164,7 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 320px) 
     border-bottom: 1px solid $mediumgray;
   }
   #nav li a {
+		border-right:3px solid $offwhite;
     padding: 0.85714em 2.14286em 0.8572em 1.14286em;
   }
   #nav li a:hover {
@@ -325,6 +326,8 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 571px) 
   #nav li a {
     margin-right: 0.85714em;
     padding:0 0 4px 0;
+		border-bottom:1px solid $offwhite;
+
   }
   #nav li a:hover {
   color:$orange;
@@ -508,6 +511,8 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 320px) 
 .cs-link{
 	left: 65%;
 	top:80%;
+	-o-transform: translate(-65%, -80%);
+	-ms-transform: translate(-65%, -80%);
 	-moz-transform: translate(-65%, -80%);
 	-webkit-transform: translate(-65%, -80%);
 	transform: translate(-65%, -80%);
@@ -528,6 +533,8 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 481px) 
 .cs-link{
 	left: 65%;
 	top:78%;
+	-o-transform: translate(-65%, -78%);
+	-ms-transform: translate(-65%, -78%);
 	-moz-transform: translate(-65%, -78%);
 	-webkit-transform: translate(-65%, -78%);
 	transform: translate(-65%, -78%);
@@ -547,6 +554,8 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 530px) 
 .cs-link{
 	left: 65%;
 	top:75%;
+	-o-transform: translate(-65%, -75%);
+	-ms-transform: translate(-65%, -75%);
 	-moz-transform: translate(-65%, -75%);
 	-webkit-transform: translate(-65%, -75%);
 	transform: translate(-65%, -75%);
@@ -566,6 +575,8 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 621px) 
 	.cs-link{
 		left: 65%;
 		top:73%;
+		-o-transform: translate(-65%, -73%);
+		-ms-transform: translate(-65%, -73%);
 		-moz-transform: translate(-65%, -73%);
 		-webkit-transform: translate(-65%, -73%);
 		transform: translate(-65%, -73%);
@@ -585,6 +596,8 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 1350px)
 .cs-link{
 	left: 65%;
 	top:69%;
+	-o-transform: translate(-65%, -69%);
+	-ms-transform: translate(-65%, -69%);
 	-moz-transform: translate(-65%, -69%);
 	-webkit-transform: translate(-65%, -69%);
 	transform: translate(-65%, -69%);
@@ -604,6 +617,8 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 1680px)
 .cs-link{
 	left: 65%;
 	top:67%;
+	-o-transform: translate(-65%, -67%);
+	-ms-transform: translate(-65%, -67%);
 	-moz-transform: translate(-65%, -67%);
 	-webkit-transform: translate(-65%, -67%);
 	transform: translate(-65%, -67%);
@@ -624,10 +639,16 @@ only screen and (        min-device-pixel-ratio: 2)      and (min-width: 320px) 
 only screen and (                min-resolution: 192dpi) and (min-width: 320px) and (max-width:768px),
 only screen and (                min-resolution: 2dppx)  and (min-width: 320px)  and (max-width:768px){
 
+.hero{
+	height:80vh;
+}
+
 .cn-logo{
 	width:100%;
 	left: -105%;
 	top:45%;
+	-o-transform: translate(93%, -45%);
+	-ms-transform: translate(93%, -45%);
 	-moz-transform: translate(93%, -45%);
 	-webkit-transform: translate(93%, -45%);
 	transform: translate(93%, -45%);
@@ -645,13 +666,19 @@ only screen and (        min-device-pixel-ratio: 2)      and (min-width: 769px) 
 only screen and (                min-resolution: 192dpi) and (min-width: 769px) and (max-width:1100px),
 only screen and (                min-resolution: 2dppx)  and (min-width: 769px)  and (max-width:1100px){
 
+.hero{
+	height:80vh;
+}
+
 .cn-logo{
 	width:73%;
-	left: 48%;
+	left: 45%;
 	top:45%;
-	-moz-transform: translate(-48%, -45%);
-	-webkit-transform: translate(-48%, -45%);
-	transform: translate(-48%, -45%);
+	-o-transform: translate(-45%, -45%);
+	-ms-transform: translate(-45%, -45%);
+	-moz-transform: translate(-45%, -45%);
+	-webkit-transform: translate(-45%, -45%);
+	transform: translate(-45%, -45%);
 
 
 	}
@@ -667,13 +694,19 @@ only screen and (        min-device-pixel-ratio: 2)      and (min-width: 1101px)
 only screen and (                min-resolution: 192dpi) and (min-width: 1101px),
 only screen and (                min-resolution: 2dppx)  and (min-width: 1101px){
 
+.hero{
+	height:78vh;
+}
+
 .cn-logo{
 	width:63%;
-	left: 45%;
-	top:45%;
-	-moz-transform: translate(-45%, -45%);
-	-webkit-transform: translate(-45%, -45%);
-	transform: translate(-45%, -45%);
+	left: 40%;
+	top:47%;
+	-o-transform: translate(-40%, -47%);
+	-ms-transform: translate(-40%, -47%);
+	-moz-transform: translate(-40%, -47%);
+	-webkit-transform: translate(-40%, -47%);
+	transform: translate(-40%, -47%);
 	}
 
 }
